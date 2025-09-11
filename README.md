@@ -1,8 +1,8 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :  DHAMINI S
- # REGISTER NUMBER :  212224040064
+ # NAME :  SARANYA AV
+ # REGISTER NUMBER :  212224040297
  # DEPARTMENT :  CSE
  # YEAR : II
 
@@ -51,29 +51,38 @@ Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
 
 AND
+
 <img width="263" height="266" alt="image" src="https://github.com/user-attachments/assets/2c4d000b-2e33-4699-b45b-7e4cb39f662e" />
 
 OR
+
 <img width="257" height="256" alt="image" src="https://github.com/user-attachments/assets/a8180e65-d9dc-4eb8-bf2d-e71e74569a83" />
 
 
 NOT
+
 <img width="252" height="164" alt="image" src="https://github.com/user-attachments/assets/a62de7e8-d8e6-4d7d-99b6-e59aeba2f793" />
 
 NAND
+
 <img width="248" height="256" alt="image" src="https://github.com/user-attachments/assets/890bf2d2-08b3-4b18-bd47-b53b1d18cbcd" />
 
 
 
 NOR 
+
 <img width="262" height="257" alt="image" src="https://github.com/user-attachments/assets/97511440-4826-42a8-84e2-b6d13e614073" />
 
 
 XOR
+
+
 <img width="286" height="265" alt="image" src="https://github.com/user-attachments/assets/f2154dde-e2ff-46f1-b172-23c8e6342def" />
 
 
 XNOR
+
+
 <img width="251" height="261" alt="image" src="https://github.com/user-attachments/assets/52ceedd5-9078-4cd4-802b-a264af01902c" />
 
  
@@ -110,6 +119,7 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 **AND & OR GATE**
 
 <img width="723" height="757" alt="image" src="https://github.com/user-attachments/assets/4c8e1674-e1a2-48b8-a8cf-139fa3f980ce" />
+
 <img width="763" height="764" alt="image" src="https://github.com/user-attachments/assets/77a3e52c-2e2d-4e99-b664-54e9e27572f1" />
 
 **NOT GATE**
@@ -133,6 +143,7 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 **XOR & XNOR GATES**
 
 <img width="620" height="791" alt="image" src="https://github.com/user-attachments/assets/7c27324e-1665-4385-9b31-1771205ad239" />
+
 <img width="620" height="791" alt="image" src="https://github.com/user-attachments/assets/27be48a3-1e04-44c7-b1c2-97a8a1332acc" />
 
 
